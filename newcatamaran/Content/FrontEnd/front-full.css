@@ -1,0 +1,14 @@
+﻿.home-header {
+    padding: 8px 0px 15px 0px !important;
+    background-image: linear-gradient(to right top, #281B09, #201617, #181112, #0E0908, #000000) !important;
+}
+
+    .home-header .nav-link, .navbar-brand {
+        color: white !important;
+        font-size: 22px !important;
+        font-family: 'Enriqueta', arial, serif;
+        line-height: 1.25;
+        margin: 0 0 10px;
+        font-size: 40px;
+        font-weight: bold;
+    }
